@@ -25,8 +25,9 @@ scipy
 ```
 style_transfer.py ./cats.jpg ./Vassily_Kandinsky,_1913_Composition_7.jpg
 ```
-![Cats](https://github.com/FrederickRoman/DeepNetsArtStyleTransfer/cats.jpg)
-![Stylized cats](https://github.com/FrederickRoman/DeepNetsArtStyleTransfer/Vassily_Kandinsky,_1913_Composition_7.jpg)
+<img src="https://github.com/FrederickRoman/DeepNetsArtStyleTransfer/blob/master/cats.jpg" width="48%">
+<img src="https://github.com/FrederickRoman/DeepNetsArtStyleTransfer/blob/master/Vassily_Kandinsky,_1913_Composition_7.jpg" width="48%">
+<img src="https://github.com/FrederickRoman/DeepNetsArtStyleTransfer/blob/master/results_at_iteration_9.png">
 
 ## Deployment
 
