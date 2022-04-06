@@ -2,6 +2,25 @@
 
 This project demonstrates how to use deep neural networks to generate stylized images given an input image and an input art style.
 
+<div style="display:flex; justify-content:center; align-items:center;">
+  <img 
+     src="https://github.com/FrederickRoman/DeepNetsArtStyleTransfer/blob/master/cats.jpg"  
+     width="20%" 
+     width="20%" 
+     alt="base image (cats)"
+   />
+   <img 
+    src="https://github.com/FrederickRoman/DeepNetsArtStyleTransfer/blob/master/Vassily_Kandinsky,_1913_Composition_7.jpg" 
+    width="40%" 
+    alt="style reference image (Vassily Kandinsky painting)"
+  />
+   <img 
+      src="https://github.com/FrederickRoman/DeepNetsArtStyleTransfer/blob/master/style_transfer_demo.gif"  
+      width="20%" 
+      alt="style transfer demo gif" 
+    />
+</div>
+
 ## Getting Started
 
 git clone [repo]
@@ -25,9 +44,6 @@ scipy
 ```
 style_transfer.py ./cats.jpg ./Vassily_Kandinsky,_1913_Composition_7.jpg
 ```
-<img src="https://github.com/FrederickRoman/DeepNetsArtStyleTransfer/blob/master/cats.jpg" width="48%">
-<img src="https://github.com/FrederickRoman/DeepNetsArtStyleTransfer/blob/master/Vassily_Kandinsky,_1913_Composition_7.jpg" width="48%">
-<img src="https://github.com/FrederickRoman/DeepNetsArtStyleTransfer/blob/master/results_at_iteration_9.png">
 
 ## Deployment
 
